@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yazanhannun
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently Seeking to obtain a challenging Data Analyst or Data Scientist position in an organization where my strong technological skills, resourcefulness   and versatility will add value to organizational operations and enable me to gain an in-depth understanding of data science and data analysis. The energy sector is an area where I am deeply passionate about contributing my best efforts through the use of AI and data-driven solutions. 
+- 🌱 Being driven by curiosity and passion for technology, I actively seek out challenging opportunities that enable me to enhance my technical expertise, versatility, and resourcefulness and apply them to make meaningful contributions. I am deeply passionate about contributing my best efforts through the use of data science in the energy sector. This is an area that fascinates me, and I am committed to make meaningful contributions in the field.
 - 💞️ I’m looking to collaborate on projects related to energy sector
 - 📫 How to reach me yazan_hannun@hotmail.com
 
